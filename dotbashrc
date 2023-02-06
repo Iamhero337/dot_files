@@ -604,4 +604,6 @@ eval "$(starship init bash)"
 alias upp="sudo pkcon update -y"
 alias apti="sudo apt install"
 alias aptr="sudo apt remove"
-
+alias gita="git add ."
+alias gitc="git commit -m "
+alias gitpom="git push origin master"
